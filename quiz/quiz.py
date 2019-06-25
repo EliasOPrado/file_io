@@ -18,4 +18,7 @@ def game_loop():
             break
         else:
             print("Invalid option")
+        print(" ")
+
+game_loop()
                 
